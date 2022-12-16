@@ -10,6 +10,15 @@ You may not modify the values in the list's nodes. Only nodes themselves may be 
 
 */
 
+
+/*
+
+APPROACH: Use slow and fast pointer to find the middle of the linked list.
+
+Reverse second half of the list and utilize temp pointers to merge both halves of the list. 
+
+*/
+
 /*
  * Definition for singly-linked list.
  * function ListNode(val, next) {
@@ -21,14 +30,6 @@ You may not modify the values in the list's nodes. Only nodes themselves may be 
 /*
  * @param {ListNode} head
  * @return {void} Do not return anything, modify head in-place instead.
-*/
-
-/*
-
-Use slow and fast pointer to find the middle of the linked list.
-
-Reverse second half of the list and utilize temp pointers to merge both halves of the list. 
-
 */
 
 var reorderList = function(head) {

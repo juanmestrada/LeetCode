@@ -1,0 +1,195 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/juan_/Desktop/webapps/LeetCode/medium/Linked List/143. Reorder List.js",
+		"/C/Users/juan_/Desktop/webapps/LeetCode/medium/Linked List/19. Remove Nth Node from End of List.js",
+		"/C/Users/juan_/Desktop/webapps/LeetCode/medium/Hash Table/3. Longest Substring Without Repeating Characters.js",
+		"/C/Users/juan_/Desktop/webapps/LeetCode/medium/Hash Table/12. Integer to Roman.js",
+		"/C/Users/juan_/Desktop/webapps/LeetCode/medium/Hash Table/424. Longest Repeating Character Replacement.js",
+		"/C/Users/juan_/Desktop/webapps/LeetCode/medium/Array/53. Maximum Subarray.js",
+		"/C/Users/juan_/Desktop/webapps/LeetCode/medium/Array/33. Search in Rotated Sorted Array.js",
+		"/C/Users/juan_/Desktop/webapps/LeetCode/medium/Array/15. 3Sum.js",
+		"/C/Users/juan_/Desktop/webapps/LeetCode/medium/Array/11. Container With Most Water.js",
+		"/C/Users/juan_/Desktop/webapps/LeetCode/medium/Array/152. Maximum Product Subarray.js",
+		"/C/Users/juan_/Desktop/webapps/LeetCode/medium/Array/153. Find Minimum in Rotated Sorted Array.js",
+		"/C/Users/juan_/Desktop/webapps/LeetCode/medium/Array/238. Product of Array Except Self.js",
+		"/C/Users/juan_/Desktop/webapps/LeetCode/easy/Array/1672. Richest Customer Wealth.js",
+		"/C/Users/juan_/Desktop/webapps/LeetCode/easy/Array/1480. Running Sum of 1d Array.js",
+		"/C/Users/juan_/Desktop/webapps/LeetCode/easy/Array/136. Single Number.js",
+		"/C/Users/juan_/Desktop/webapps/LeetCode/easy/Array/121. Best Time to Buy and Sell Stock.js",
+		"/C/Users/juan_/Desktop/webapps/LeetCode/easy/Array/88. Merge Sorted Array.js",
+		"/C/Users/juan_/Desktop/webapps/LeetCode/easy/Array/66. Plus One.js",
+		"/C/Users/juan_/Desktop/webapps/LeetCode/easy/Array/27. Remove Element.js",
+		"/C/Users/juan_/Desktop/webapps/LeetCode/easy/Array/26. Remove Duplicates from Sorted Array.js",
+		"/C/Users/juan_/Desktop/webapps/LeetCode/easy/Hash Table/1512. Number of Good Pairs.js",
+		"/C/Users/juan_/Desktop/webapps/LeetCode/easy/Hash Table/169. Majority Element.js",
+		"/C/Users/juan_/Desktop/webapps/LeetCode/easy/Hash Table/217. Contains Duplicate.js",
+		"/C/Users/juan_/Desktop/webapps/LeetCode/easy/Linked List/141. Linked List Cycle",
+		"/C/Users/juan_/Desktop/webapps/LeetCode/medium/Array/13. Roman to Integer",
+		"/C/Users/juan_/Desktop/webapps/LeetCode/easy/Array/9. Palindrome Number",
+		"/C/Users/juan_/Desktop/webapps/LeetCode/medium/Array/1. Two Sum.js",
+		"/C/Users/juan_/Desktop/webapps/LeetCode/easy/Array/1. Two Sum.js",
+		"/C/Users/juan_/Desktop/webapps/LeetCode/hard/Linked List/23. Merge k Sorted Lists.js"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "647. Palindromic Substrings.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 263.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
