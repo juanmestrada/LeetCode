@@ -156,7 +156,3 @@ var deserialize = function(data) {
     return DFS();
 };
 
-/**
- * Your functions will be called as such:
- * deserialize(serialize(root));
- */
